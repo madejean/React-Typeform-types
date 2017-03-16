@@ -4,7 +4,7 @@
 
 ![screen shot 2017-03-15 at 4 54 23 pm](https://cloud.githubusercontent.com/assets/15366405/23976145/f4ac0ab0-09a2-11e7-844c-584bfd90d5c7.png)
 
-used material-ui for bootstrap
+used create-react-app and material-ui for bootstrap
 
 install modules:  **npm install**
 
