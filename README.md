@@ -6,7 +6,6 @@
 
 used create-react-app and material-ui for bootstrap
 
-install modules:  **npm install**
+to install modules:  **npm install**
 
-
-run: **npm start**
+to run: **npm start**
